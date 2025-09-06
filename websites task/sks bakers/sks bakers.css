@@ -1,0 +1,95 @@
+
+div{
+    margin: 0;
+    padding: 0;
+    background: white;
+    color: black;
+}
+
+.email
+{
+    
+background:#f36e1b;
+color: black;
+width: 600px;
+
+}
+
+.call{
+    
+    background:#f36e1b;
+    color: black;
+    width: 600px;
+   
+}
+.d2
+{
+    background: rgb(71, 56, 32);
+    color: white;
+    word-spacing: 50px;
+    font-weight: 200;
+    text-align: center;
+    height: 30px;
+
+}
+main{
+   
+     background: #000;
+    background-image: url(piece-chocolate-birthday-cake-one-burning-candle-white-plate-deep-black-background-party-celebration-anniversary-close-193907006.webp);
+    height: 300px;
+    background-repeat: no-repeat;
+   
+}
+
+.p1{
+    font-family: "Playwrite CU", cursive;
+    color:#f36e1b ;
+    text-align: center;
+
+}
+.p2{
+    font-family: "Oswald", sans-serif;
+    font-weight: 500px;
+    color: white;
+    text-align: center;
+}
+.p3{
+    font-family: "Oswald", sans-serif;
+    color: white;
+    text-align: center;
+}
+.p4{
+    color: white;
+    text-align: center;
+}
+button{
+    color: white;
+    background: #f36e1b ;
+    text-align: center;
+    
+}
+footer{
+    background:white;
+}
+img{
+    border-radius: 80%;
+    width: 100px;
+    height: 100px;
+    text-align: left;
+}
+.p5{
+    color: #f36e1b ;
+    font-family: "Playwrite CU", cursive;
+    text-align: center;
+}
+.p6{
+    font-family: "Oswald", sans-serif;
+    text-align: center;
+
+}
+
+footer{
+    background: #000;
+    color: rgb(34, 67, 56);
+}
+

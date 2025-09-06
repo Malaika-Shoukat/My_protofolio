@@ -1,0 +1,27 @@
+.graphics
+{
+    color: #f0ffff;
+    background-color: black;
+}
+.line 
+{
+    color: blue;
+    background-color: bisque;
+
+}
+.imp
+{
+    color: rgb(194, 206, 126);
+    background: #e7e5e5;
+}
+.ol
+{
+    color: rgb(110, 153, 153);
+    background: #f8f3f3;
+}
+.table
+{
+    color: rgb(160, 115, 132);
+    background: #ddd5d5;
+}
+
